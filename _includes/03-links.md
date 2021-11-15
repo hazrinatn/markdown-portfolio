@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub](http://github.com/hazrinatn)
+[Twitter](http://twitter.com/hazrinatn)
+[Instagram](http://instagram.com/hazrinatn)
+[Linkedin](http://linkedin.com/in/hazrina-tiyas-nussa)
