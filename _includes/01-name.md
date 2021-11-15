@@ -1,2 +1,2 @@
 # Hello, I'm Hazrina 👋
-## Welcome to my web!
+## I'm a Web Developer
