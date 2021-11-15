@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+I like to read and here are my favorites in no particular order:
+- Siddhartha
+- Smartcuts: How Hackers, Innovators, and Icons Accelerate Success
+- The Psychology of Money: Timeless Lessons on Wealth, Greed, and Happiness
+- 12 Rules for Life: The Antidote to Chaos
+- Ego is The Enemy
+- Made to Stick
+- The War of Art
+- The Inner Game of Tennis
+- "Surely You're Joking Mr. Feynman": Adventures of A Curious Character
+- Animal Farm
